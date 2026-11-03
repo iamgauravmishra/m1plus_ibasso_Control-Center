@@ -1,0 +1,11 @@
+DAC Control Center v9.7.4 — GitHub source package
+
+Run from PowerShell:
+  dotnet restore .\DC07Pro.Wpf.csproj
+  dotnet run --project .\DC07Pro.Wpf.csproj
+
+To build the Windows installer, install Inno Setup 6 and run:
+  Set-ExecutionPolicy -Scope Process Bypass
+  .\Build-Installer.ps1
+
+See README.md for requirements, project layout, and notes.
