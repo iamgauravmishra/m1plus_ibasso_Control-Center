@@ -1,3 +1,5 @@
+Download Installer : https://github.com/iamgauravmishra/m1plus_ibasso_Control-Center/releases/download/v9.7.4/DAC-Control-Center-Setup-9.7.4.exe
+
 # DAC Control Center
 
 Windows desktop control application for supported USB DAC devices:
